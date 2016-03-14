@@ -175,6 +175,13 @@ span.glyphicon.glyphicon-envelope{
   border: 2px solid;
   padding: 1em;
 }
+span.glyphicon.social-linked-in{
+  font-size: 2em;
+  color: #C6D9C7;
+  border-radius: 50px;
+  border: 2px solid;
+  padding: 1em;
+}
 
 .social-icons {
 	background:#fff;
